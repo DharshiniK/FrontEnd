@@ -1,0 +1,72 @@
+
+.card1{
+    display:flex;
+    width:100%;
+    height:112px;
+     /*margin:24px 24px 36px 24px;*/
+    background-color:hsl(0deg 0% 100%) 
+}
+.pick{
+    background-color:hsl(0deg 0% 100%);
+    width:60px;
+    height: 80px;
+    padding: 20px 12px 12px 12px;
+}
+.content,div > h4{
+    padding:0;
+    margin:0;
+}
+.card2title{
+        margin-top: 40px;
+        border-top: groove;
+         border-radius: 0px;
+        margin-top: 20px;
+        background-color: white;
+        min-height: 5px;
+        width: 10%;
+        display:flex;
+        object-fit: inherit;
+}
+legend{
+    padding: 10px;color: black;font-family: system-ui;font-weight: 500;
+}
+.card2{
+    display:flex;
+    /*margin:50px 0 0 0;*/
+    width:70%;
+    height:350px;
+    background-color:hsl(0deg 0% 100%);
+}
+.card2_1{
+    width:30%;
+    margin-right:18px;
+
+    padding:15px 0 0 15px;
+    margin: 0;
+}
+.card2_2{
+    margin-right:25px;
+    width:15%;
+    padding:20px 0 0 5px;
+   
+}
+.card2_3{
+    width:15%;
+    padding:20px 0 0 5px ;
+   
+}
+.card3{
+    width:30%;
+    height:200px;
+    margin:0px 0 0 20px;
+    background-color: hsl(0deg 0% 100%);
+}
+.card3_1{
+    padding-left:10px;
+    margin:0;
+    padding-top: 25px;
+}
+div > ul{
+    list-style-type:circle;
+     margin:0;
+}
